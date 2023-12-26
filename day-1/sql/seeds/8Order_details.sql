@@ -1,0 +1,1 @@
+\COPY Order_details FROM '../csv/OrderDetails.csv' WITH CSV HEADER;
